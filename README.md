@@ -7,8 +7,11 @@
 [https://abhid1678.github.io/robofriends/](https://abhid1678.github.io/robofriends/)
 
 <h2>Project Screenshots:</h2>
-
-<img src="" alt="project-screenshot" width="400" height="400/">
+<div>
+<img src="https://github.com/AbhiD1678/robofriends/blob/master/Capture.PNG" alt="project-screenshot" width="400" height="400" align='left' />
+<img src="https://github.com/AbhiD1678/robofriends/blob/master/1.PNG" alt="project-screenshot" width="400" height="400" align='right' />
+<br/>
+</div>
 
 <h2>🛠️ Installation Steps:</h2>
 
