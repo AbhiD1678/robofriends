@@ -8,10 +8,12 @@
 
 <h2>Project Screenshots:</h2>
 <div>
-<img src="https://github.com/AbhiD1678/robofriends/blob/master/Capture.PNG" alt="project-screenshot" width="400" height="400" align='left' />
-<img src="https://github.com/AbhiD1678/robofriends/blob/master/1.PNG" alt="project-screenshot" width="400" height="400" align='right' />
+<img src="https://github.com/AbhiD1678/robofriends/blob/master/Capture.PNG" alt="project-screenshot" width="500" height="400"  />
+<img src="https://github.com/AbhiD1678/robofriends/blob/master/1.PNG" alt="project-screenshot" width="500" height="400"  />
 <br/>
 </div>
+
+<br/>
 
 <h2>🛠️ Installation Steps:</h2>
 
